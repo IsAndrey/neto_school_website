@@ -1,3 +1,4 @@
 django
-psycopg2-binary
+psycopg2
 python-dotenv
+django-debug-toolbar
